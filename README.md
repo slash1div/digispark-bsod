@@ -1,7 +1,7 @@
 # digispark-bsod
 Code for a USB stick that basically bluescreens any computer its plugged into.
-# **⚠️ I AM NOT RESPONSIBLE TO ANY DAMAGE CAUSED BY THESE USBS. ANY USAGE WITH MALLICIOUS INTENT IS NOT CONDONED BY ME. ALL OF THE CODE FOR THESE USBS ARE MEANT FOR EDUCATIONAL PURPOSES.**
 
+# **⚠️ I AM NOT RESPONSIBLE TO ANY DAMAGE CAUSED BY THESE USBS. ANY USAGE WITH MALLICIOUS INTENT IS NOT CONDONED BY ME. ALL OF THE CODE FOR THESE USBS ARE MEANT FOR EDUCATIONAL PURPOSES.**
 # Digispark USB Code
 ## Requirements:
 [Digispark USBs ($20 for 5)](https://www.amazon.com/AiTrip-Digispark-Kickstarter-Attiny85-Development/dp/B0836WXQQR)
@@ -24,7 +24,7 @@ Install Digistump AVR Boards then close out of that window
 Tools >Board "somethinghere">Digistump AVR Boards>Digispark (Default - 16.5mhz)
 
 ## Uploading Code:
-Paste in something like the RickRoll from the repo into the Arduino code editor.
+Paste in the code from main.ino from the repo into the Arduino code editor.
 
 Hit the upload (->) button on the top.
 
